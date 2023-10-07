@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assigment-N2</string>
+    <string name="sign_up_screens">Sign Up Screens</string>
+    <string name="login_screens">Login Screens</string>
+</resources>
